@@ -1,0 +1,11 @@
+{
+  "name": "trello-linux-port",
+  "version": "1.0.0",
+  "description": "trello-linux-port",
+  "main": "trello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "noob",
+  "license": "WTFPL"
+}
