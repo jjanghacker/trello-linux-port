@@ -1,3 +1,3 @@
 Trello for linux
 
-with electron.js
+build with electron.js
